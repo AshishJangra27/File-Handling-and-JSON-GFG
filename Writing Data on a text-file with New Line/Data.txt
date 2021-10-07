@@ -1,0 +1,3 @@
+Hello everyone, I'm hoping you guys are doing great as always.
+Today we're going to discuss about File Handling.
+It's going to be used when you want to save your data permanently.
